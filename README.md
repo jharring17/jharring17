@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jack.</h1>
-<h3 align="center">A Junior computer science student @ Stevens Institute of Technology..</h3>
+<h1 align="center">Hi 👋, I'm Jack Harrington.</h1>
+<h3 align="center">A Junior computer science student @ Stevens Institute of Technology.</h3>
 
 - 🔭 I’m currently working on [CountryCram](https://github.com/jharring17/CountryCram)
 
