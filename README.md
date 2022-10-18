@@ -1,4 +1,4 @@
-[![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/My-Beloved-City.jpg)]
+[MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/My-Beloved-City.jpg)
 <h1 align="center">Hi 👋, I'm Jack Harrington.</h1>
 <h3 align="center">A Junior computer science student @ Stevens Institute of Technology.</h3>
 
