@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Theory of Computation, Database Management Systems, Computer Ethics, and UI/UX Design**
 
+- 🖥 I've completed coursework in **Discrete Structures, Data Structures, Computer Architecture and Organization, Algorithms, Systems Programming, Principles of Programming Languages, Linear Algebra, Statistics**
+
 - 👨‍💻 All of my projects are available at [jharringtonportfolio.com](jharringtonportfolio.com)
 
 - 📫 How to reach me **jackharrington1117@gmail.com**
