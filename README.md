@@ -1,4 +1,4 @@
-[![MasterHead](https://niteowlcreative.com/wp-content/uploads/2020/05/NYC-Banner-NOC-624x169.png)]
+[![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/My-Beloved-City.jpg)]
 <h1 align="center">Hi 👋, I'm Jack Harrington.</h1>
 <h3 align="center">A Junior computer science student @ Stevens Institute of Technology.</h3>
 
