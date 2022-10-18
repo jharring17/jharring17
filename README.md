@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fniteowlcreative.com%2Fnew-york-ui-ux%2Fnyc-banner-noc%2F&psig=AOvVaw1OJTUCjE6r4vtsMF8t_SaV&ust=1666156302834000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjf8IaC6foCFQAAAAAdAAAAABAO)]
+[![MasterHead](https://niteowlcreative.com/wp-content/uploads/2020/05/NYC-Banner-NOC-624x169.png)]
 <h1 align="center">Hi 👋, I'm Jack Harrington.</h1>
 <h3 align="center">A Junior computer science student @ Stevens Institute of Technology.</h3>
 
