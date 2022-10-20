@@ -1,6 +1,6 @@
 ![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/My-Beloved-City.jpg)
 <h1 align="center">Hi 👋🏻, I'm Jack Harrington.</h1>
-<h3 align="center">A Junior computer science student @ Stevens Institute of Technology.</h3>
+<h3 align="center">A junior computer science student @ Stevens Institute of Technology.</h3>
 
 - 🔭 I’m currently working on [CountryCram](https://github.com/jharring17/CountryCram)
 
