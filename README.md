@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [jharringtonportfolio.com](jharringtonportfolio.com)
 
-- 📫 How to reach me **jackharrington1117@gmail.com**
+- 📫 How to reach me **jackharrington1117@gmail.com** or **jharring@stevens.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
