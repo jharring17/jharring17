@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋🏻, I'm Jack Harrington.</h1>
 <h3 align="center">A junior computer science student @ Stevens Institute of Technology.</h3>
 
-- 🔭 I’m currently working on [CountryCram](https://github.com/jharring17/CountryCram)
+- 🔭 I’m currently working on **cs546 Final Project**
 
-- 🌱 I’m currently learning **Theory of Computation, Database Management Systems, Computer Ethics, and UI/UX Design**
+- 🌱 I’m currently learning **Agile Methods, Software Development Processes, Web Development, Database Management Systems**
 
 - 🖥 I've completed coursework in **Discrete Structures, Data Structures, Computer Architecture and Organization, Algorithms, Systems Programming, Principles of Programming Languages, Linear Algebra, Statistics**
 
