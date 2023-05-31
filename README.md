@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏻, I'm Jack Harrington.</h1>
 <h3 align="center">A junior computer science student @ Stevens Institute of Technology.</h3>
 
-- 🔭 I’m currently working on **cs546 Final Project**
+- 🔭 I’m currently working on my **minimal portfolio**
 
 - 🌱 I’m currently learning **Agile Methods, Software Development Processes, Web Development, Database Management Systems**
 
