@@ -23,7 +23,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Working as a **Data Scientist (AI/LLM Systems)** at **Marsh** — designing multi-agent LLM document extraction systems and scalable ETL pipelines in production
-- 🎓 Pursuing my **M.S. in Computer Science** at Stevens Institute of Technology (GPA: 3.918)
+- 🎓 Pursuing my **M.S. in Computer Science** at Stevens Institute of Technology
 - 🤖 Focused on **AI automation**, **agent orchestration**, and **data pipeline engineering**
 - 🌱 Currently deepening my expertise in **LLM systems**, **prompt engineering**, and **ML foundations**
 - 📫 Reach me at **jackharrington1117@gmail.com**
