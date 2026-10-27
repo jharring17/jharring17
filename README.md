@@ -1,67 +1,51 @@
-![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/My-Beloved-City.jpg)
+<div align="center">
 
-<h1 align="center">Hi 👋🏻, I'm Jack Harrington</h1>
-<h3 align="center">Data Scientist · AI/LLM Systems · MS Computer Science</h3>
+# Jack Harrington
+
+<a href="https://github.com/jharring17">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3200&pause=900&color=0E7C7B&center=true&vCenter=true&width=560&lines=Data+Scientist+%C2%B7+LLM+Systems;Multi-agent+document+extraction;Data+pipelines+%26+ETL+in+Python" alt="Data Scientist · LLM Systems · Multi-agent document extraction · Data pipelines & ETL in Python" />
+</a>
+
+I build production LLM systems that turn unstructured documents into structured data,<br/>
+and the pipelines that run them.
+
+<a href="https://linkedin.com/in/jack-harrington-s17"><img src="https://img.shields.io/badge/LinkedIn-12302E?style=flat-square&logo=linkedin&logoColor=F2A541" alt="LinkedIn" /></a>
+<a href="mailto:jackharrington1117@gmail.com"><img src="https://img.shields.io/badge/Email-12302E?style=flat-square&logo=gmail&logoColor=F2A541" alt="Email" /></a>
+
+</div>
+
+<br/>
+
+### Now
+
+**Data Scientist, AI/LLM Systems @ Marsh.** Designing multi-agent extraction pipelines for insurance documents and the orchestration around them, from ingestion to validated output.
+
+**MSE-AI @ University of Pennsylvania.** Coursework in machine learning, reinforcement learning, and NLP.
+
+**M.S. Computer Science @ Stevens Institute of Technology** (2026).
+
+### Interested in
+
+Document understanding · agent orchestration · evaluation of LLM pipelines · NLP research
+
+<br/>
+
+### Stack
+
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0E7C7B?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-0E7C7B?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-0E7C7B?style=flat-square&logo=gnubash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-0E7C7B?style=flat-square&logo=javascript&logoColor=white) |
+| **LLMs & ML** | ![LangChain](https://img.shields.io/badge/LangChain-12302E?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-12302E?style=flat-square&logo=langchain&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-12302E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Data & orchestration** | ![Dagster](https://img.shields.io/badge/Dagster-0E7C7B?style=flat-square&logo=dagster&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-0E7C7B?style=flat-square&logo=databricks&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-0E7C7B?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-0E7C7B?style=flat-square&logo=numpy&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0E7C7B?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-0E7C7B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-12302E?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-12302E?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-12302E?style=flat-square&logo=linux&logoColor=white) |
+
+<br/>
+
+### Activity
+
 <p align="center">
-  Building multi-agent LLM systems & data pipelines @ <b>Marsh</b> &nbsp;|&nbsp; Stevens Institute of Technology
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/jack-harrington-s17" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/jharring17" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:jackharrington1117@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 Working as a **Data Scientist (AI/LLM Systems)** at **Marsh** — designing multi-agent LLM document extraction systems and scalable ETL pipelines in production
-- 🎓 Pursuing my **M.S. in Computer Science** at Stevens Institute of Technology
-- 🤖 Focused on **AI automation**, **agent orchestration**, and **data pipeline engineering**
-- 🌱 Currently deepening my expertise in **LLM systems**, **prompt engineering**, and **ML foundations**
-- 📫 Reach me at **jackharrington1117@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI & Machine Learning
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Data & Pipelines
-![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jharring17&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=jharring17&hide_border=true&background=12302E&stroke=0E7C7B&ring=F2A541&fire=F2A541&currStreakNum=E6EFEC&sideNums=E6EFEC&currStreakLabel=F2A541&sideLabels=9FC7BF&dates=9FC7BF" width="60%" alt="GitHub streak stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jharring17&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jharring17&hide_border=true&bg_color=12302E&color=E6EFEC&title_color=F2A541&line=F2A541&point=E6EFEC&area=true&area_color=0E7C7B" width="95%" alt="GitHub contribution graph" />
 </p>
