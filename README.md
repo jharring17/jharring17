@@ -46,6 +46,3 @@ Document understanding · agent orchestration · evaluation of LLM pipelines · 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jharring17&hide_border=true&background=12302E&stroke=0E7C7B&ring=F2A541&fire=F2A541&currStreakNum=E6EFEC&sideNums=E6EFEC&currStreakLabel=F2A541&sideLabels=9FC7BF&dates=9FC7BF" width="60%" alt="GitHub streak stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jharring17&hide_border=true&bg_color=12302E&color=E6EFEC&title_color=F2A541&line=F2A541&point=E6EFEC&area=true&area_color=0E7C7B" width="95%" alt="GitHub contribution graph" />
-</p>
